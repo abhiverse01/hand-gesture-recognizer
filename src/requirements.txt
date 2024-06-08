@@ -1,6 +1,7 @@
-opencv-python
-Flask
-Django
-mediapipe
-tensorflow
-torch
+Flask==2.1.1
+flask-sock==0.5.1
+opencv-python==4.5.5.64
+mediapipe==0.8.9.1
+tensorflow==2.8.0
+numpy==1.21.4
+Pillow==8.4.0

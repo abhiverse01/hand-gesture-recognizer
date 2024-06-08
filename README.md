@@ -50,7 +50,7 @@
     <ol>
         <li>Create a virtual environment and activate it:
             <pre><code>python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`</code></pre>
+    source env/bin/activate  # On Windows use `env\Scripts\activate`</code></pre>
         </li>
         <li>Install dependencies:
             <pre><code>pip install -r requirements.txt</code></pre>

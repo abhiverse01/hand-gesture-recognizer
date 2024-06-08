@@ -16,7 +16,7 @@ sock = Sock(app)
 
 # Load pre-trained model (update with actual model path)
 try:
-    model = load_model('models/gesture_model_3.keras')
+    model = load_model('models/gesture_model_2.keras')
     logging.info("Model loaded successfully.")
 except Exception as e:
     logging.error(f"Error loading model: {e}")

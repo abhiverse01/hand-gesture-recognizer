@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+video {
+    border: 2px solid #333;
+    margin-bottom: 20px;
+}
+
+#output {
+    font-size: 1.5em;
+    color: #333;
+}
